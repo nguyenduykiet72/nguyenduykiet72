@@ -23,8 +23,7 @@ I'm just a chill developer
   ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 - Web Development: HTML, CSS, React, Node.js
-- Data Science: Pandas, NumPy, Scikit-Learn, TensorFlow
-- Tools: Git, Docker, VS Code
+- Tools: Git, Docker, VS Code, Postman
 
 ## 📈 GitHub Stats
 
