@@ -4,12 +4,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on various open-source projects and contributing to the developer community.
-- 🌱 I’m currently learning more about machine learning and cloud computing.
-- 👯 I’m looking to collaborate on innovative projects that can make a difference.
-- 💬 Ask me about Python, JavaScript, and anything related to web development.
-- 📫 How to reach me: nguyenduykiet72@example.com
-- ⚡ Fun fact: I love exploring new technologies and staying updated with the latest trends in tech.
+I'm just a chill developer 
 
 ## 🛠️ Technologies & Tools
 
@@ -35,10 +30,6 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 
 ![Kiet's GitHub stats](https://github-readme-stats.vercel.app/api?username=nguyenduykiet72&show_icons=true&theme=radical)
 
-## 📫 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/nguyenduykiet72)
-- [Twitter](https://twitter.com/nguyenduykiet72)
-- [Personal Website](https://nguyenduykiet72.dev)
 
 Thank you for visiting my profile! Feel free to check out my repositories and get in touch if you'd like to collaborate on something amazing.
