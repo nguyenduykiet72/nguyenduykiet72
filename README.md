@@ -99,5 +99,7 @@
 </div>
 
 <div align="center">
-  <h3>Thanks for visiting! 👋</h3>
+   <h3>
+     Thanks for visiting! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="30">
+  </h3>
 </div>
