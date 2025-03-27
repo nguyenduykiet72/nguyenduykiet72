@@ -71,9 +71,9 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nguyenduykiet72&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4" alt="trophies" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nguyenduykiet72&show_icons=true&theme=tokyonight&hide_border=true&locale=en" height="200" alt="nguyenduykiet72" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenduykiet72&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="200" alt="languages graph"  />
 </div>
-
 <br/>
 
 ## 🔗 Connect with me
