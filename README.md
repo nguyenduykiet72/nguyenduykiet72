@@ -101,10 +101,3 @@
 <div align="center">
   <h3>Thanks for visiting! 👋</h3>
 </div>
-đây là readme github của tôi và tôi cần bạn giúp đó là trong phần github stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nguyenduykiet72&show_icons=true&theme=tokyonight&hide_border=true&locale=en" height="200" alt="nguyenduykiet72" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenduykiet72&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="200" alt="languages graph"  />
-</div>
-<br/>
-nó đang không cập nhật đúng dữ liệu của tôi
