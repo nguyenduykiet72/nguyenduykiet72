@@ -63,7 +63,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nguyenduykiet72&show_icons=true&theme=tokyonight&hide_border=true&locale=en&count_private=true&include_all_commits=true" height="200" alt="nguyenduykiet72" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nguyenduykiet72&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="200" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenduykiet72&theme=tokyonight&hide_border=true&count_private=true&layout=compact&langs_count=8" height="200" alt="languages graph" />
 </div>
 <br/>
