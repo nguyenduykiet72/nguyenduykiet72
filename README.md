@@ -75,10 +75,10 @@
 ## 🔗 Connect with me
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/just-elliot-nguyen">
+  <a href="https://www.linkedin.com/in/elliot-nguyen-ndk/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
   </a>
-  <a href="mailto:your.email@gmail.com" target="_blank">
+  <a href="mailto:elliotnguyen909@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>
   </a>
   <a href="https://github.com/nguyenduykiet72" target="_blank">
