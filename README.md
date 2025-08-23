@@ -70,12 +70,6 @@
 </div>
 <br/>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nguyenduykiet72&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4" alt="trophies" />
-</div>
-
 <br/>
 
 ## 🔗 Connect with me
