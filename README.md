@@ -65,8 +65,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://my-github-stat.vercel.app/api?username=nguyenduykiet72&show_icons=true&hide_border=true&theme=tokyonight&count_private=true&include_all_commits=true" height="200" alt="Stats" />
-  <img src="https://my-github-stat.vercel.app/api/top-langs/?username=nguyenduykiet72&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&refresh=1" height="200" alt="Languages" />
+  <img src="./profile/stats.svg" />
+  <img src="./profile/top-langs.svg" />
 </div>
 
 <br/>
